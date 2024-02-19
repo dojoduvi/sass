@@ -1,0 +1,5 @@
+@use '../config/paleta';
+
+.produtos{
+    background-color: paleta.$corPrincipal;
+}

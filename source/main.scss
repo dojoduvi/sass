@@ -1,0 +1,11 @@
+@use 'config/reset';
+@use 'config/paleta';
+@use 'secoes/produtos';
+
+body{
+    background-color: paleta.$corFundo;
+}
+
+button{
+    margin: 20px 5px;
+}
